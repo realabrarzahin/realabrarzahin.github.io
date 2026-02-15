@@ -1,0 +1,5 @@
+baseURL = 'https://realabrarzahin.github.io/'
+languageCode = 'en-us'
+title = "Abrar's Archive"
+
+theme = 'hugo-theme-nostyleplease'
