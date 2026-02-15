@@ -5,14 +5,12 @@
     <loc>http://localhost:1313/</loc>
     <lastmod>2022-08-25T21:30:04+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2020-07-07T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/test/</loc>
-    <lastmod>2020-07-07T00:00:00+08:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+  </url><url>
     <loc>http://localhost:1313/tags/</loc>
+  </url><url>
+    <loc>http://localhost:1313/posts/crafting_interpreter_book/</loc>
   </url>
 </urlset>
